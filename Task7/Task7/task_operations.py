@@ -1,4 +1,4 @@
-from Task7.file_handler import save_tasks, load_tasks
+from file_handler import save_tasks, load_tasks
 
 def add_task(task):
     tasks = load_tasks()
