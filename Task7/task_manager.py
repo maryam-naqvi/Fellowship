@@ -1,4 +1,5 @@
-from Task7.task_operations import add_task, remove_task, update_task, view_tasks
+from task_operations import add_task, remove_task, update_task, view_tasks
+
 
 def main():
     while True:
